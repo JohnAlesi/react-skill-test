@@ -1,10 +1,10 @@
 import React from 'react';
 import PostContent from './PostContent';
 
-const Post = ({ id, title, body }) => {
+const Post = ({ id, title, body, userId }) => {
   return (
     <div id={id} className="post-item">
-      <PostContent title={title} body={body} />
+      <PostContent userId={userId} title={title} body={body} />
     </div>
   )
 }
