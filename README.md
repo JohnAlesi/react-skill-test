@@ -2,6 +2,7 @@
 
 ## Premise
 This is a non-working app, your task is to make it work with what we expect.
+Update: App is already done.
 
 ## Notes
 Api endpoints used are from [jsonplaceholder.typicode.com](https://jsonplaceholder.typicode.com/). A fully working version is available [here](https://react-skill-test.vercel.app/)
